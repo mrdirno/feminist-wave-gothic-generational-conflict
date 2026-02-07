@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_gothic_generational_conflict",
+  "title": "The Gorgon's Legacy",
+  "tagline": "A granddaughter inherits a cliffside house of feminist fury and family secrets, where the ghosts are ideas and the most dangerous inheritance is the truth.",
+  "target_words": 70000,
+  "actual_words": 70913,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Cost of Intellectual Rigor vs. Familial Warmth",
+    "Inherited Trauma and Ideological Debt",
+    "The Haunting of Unresolved Mother-Daughter Conflict",
+    "The Gothic House as a Body of Repressed History"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The House of Bad Teeth",
+      "words": 2955
+    },
+    {
+      "ch": 2,
+      "title": "The Solicitor's Particulars",
+      "words": 2955
+    },
+    {
+      "ch": 3,
+      "title": "The Storm-Arrested Study",
+      "words": 2955
+    },
+    {
+      "ch": 4,
+      "title": "The First Manuscript",
+      "words": 2955
+    },
+    {
+      "ch": 5,
+      "title": "The Cliff Path Walk",
+      "words": 2955
+    },
+    {
+      "ch": 6,
+      "title": "Mrs. O'Brien's Testimony",
+      "words": 2955
+    },
+    {
+      "ch": 7,
+      "title": "Letters from the Silence",
+      "words": 2955
+    },
+    {
+      "ch": 8,
+      "title": "The California Echo",
+      "words": 2955
+    },
+    {
+      "ch": 9,
+      "title": "The Gorgon's Gaze Revisited",
+      "words": 2955
+    },
+    {
+      "ch": 10,
+      "title": "The Village and Its Whispers",
+      "words": 2955
+    },
+    {
+      "ch": 11,
+      "title": "The Second Heir",
+      "words": 2955
+    },
+    {
+      "ch": 12,
+      "title": "A Crack in the Foundation",
+      "words": 2955
+    },
+    {
+      "ch": 13,
+      "title": "The Midnight Typewriter",
+      "words": 2955
+    },
+    {
+      "ch": 14,
+      "title": "Sea-Scoured Truths",
+      "words": 2955
+    },
+    {
+      "ch": 15,
+      "title": "Confrontation in Sunlight",
+      "words": 2955
+    },
+    {
+      "ch": 16,
+      "title": "The Unwritten Chapter",
+      "words": 2955
+    },
+    {
+      "ch": 17,
+      "title": "The Archive of Rage",
+      "words": 2955
+    },
+    {
+      "ch": 18,
+      "title": "The Ritual of Letting Go",
+      "words": 2955
+    },
+    {
+      "ch": 19,
+      "title": "The Third Generation",
+      "words": 2955
+    },
+    {
+      "ch": 20,
+      "title": "The Storm Breaks",
+      "words": 2955
+    },
+    {
+      "ch": 21,
+      "title": "Burning the Blueprints",
+      "words": 2955
+    },
+    {
+      "ch": 22,
+      "title": "A New Kind of Clarity",
+      "words": 2955
+    },
+    {
+      "ch": 23,
+      "title": "The House Exhales",
+      "words": 2955
+    },
+    {
+      "ch": 24,
+      "title": "Not an Ending, a Horizon",
+      "words": 2953
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Cat's mother to Evangeline that was never sent, explaining her flight to California and her choice of a 'quiet life'.",
+      "Draft a lost chapter from Evangeline's seminal work, 'The Gorgon's Gaze', that was too personal or too brutal to publish.",
+      "Create a scene where Mrs. O'Brien confronts Evangeline about the emotional cost of her 'ruthless clarity', set in the kitchen years before Cat's arrival.",
+      "Write a monologue from the perspective of Black Rock House itself, feeling the weight of the Black women's lives and conflicts within its walls."
+    ],
+    "technical": [
+      "Build an interactive map of Black Rock House where users can click on rooms (study, kitchen, east bedroom) to uncover fragments of manuscript, audio of the sea, or character memories.",
+      "Create a 'Generational Echo' text tool that allows a user to input a modern sentence and see it transformed through the linguistic and ideological filters of Evangeline (1970s radical feminist), her daughter (1980s pragmatic exile), and Cat (contemporary seeker)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Sylvia Plath",
+      "Shirley Jackson",
+      "Maggie O'Farrell",
+      "Rebecca Solnit"
+    ]
+  },
+  "cover_prompt": "A young woman stands at a threshold, her hand hesitating on the ornate, tarnished brass doorknob of a towering cliffside Victorian house, its windows like dark, knowing eyes reflecting a stormy sea below, the very architecture seeming to breathe with a latent, feminine power, [Detailed Scene & Context: inside the grand, shadowed foyer, spectral, translucent forms of women from different eras—a 1920s radical, a 1970s activist, a weary intellectual—overlay the scene, their forms woven from swirling dust motes and old manuscript pages, representing the haunting legacy of ideas and unresolved conflict, with family portraits on the wall whose eyes seem to follow the protagonist, and a single, weathered journal lies open on a hall table, its pages threatening to scatter in the coastal wind], [Artistic Style & Medium: in the atmospheric and symbolically rich style of Remedios Varo, blended with the precise, haunting realism of contemporary photographer Kirsty Mitchell and the textured, emotional brushwork of Leonora Carrington, photorealistic oil painting with symbolic surrealist elements], [Composition & Camera: book cover framing, a centered and intimate composition that draws the viewer into the moment of decision, a low-angle shot looking up slightly at the woman and the imposing house to emphasize its daunting scale and her determination, with the ghostly figures integrated seamlessly into the architecture], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single, strong light source from within the house casting long, dramatic shadows, a color palette of stormy slate greys, deep oceanic blues, and muted, weathered stone, contrasted with the warm, ethereal gold of the spectral figures and the cold, sharp brass of the doorknob], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
