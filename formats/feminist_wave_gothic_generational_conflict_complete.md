@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER ONE**
 
 The house was a mouthful of bad teeth. That was my first thought, standing on the wet gravel of the drive, the North Atlantic wind trying to fillet my coat. Black Rock House. A misnomer. It was grey, the grey of a week-old bruise, a hulking Victorian pile with too many gables and not enough windows. The ones it did have were narrow, suspicious, their glass warped by time and salt into a permanent, watery squint. The whole structure seemed to lean back from the cliff edge, as if bracing itself against the next gale, or perhaps resisting the pull of the sea below. It wasn’t picturesque. It was a warning.
@@ -102,6 +104,8 @@ Mrs. O’Brien’s voice made me jump. She stood in the doorway, a silhouette ag
 I looked from the cracking sea to the cracked photograph on the desk, from the unfinished note to the women fighting the endless sea below. This wasn’t an inheritance. It was a trial. And the first test was already sounding, a deep, percussive beat from the darkening shore, asking me which world I belonged to—the one of ruthless clarity in the silent study, or the one of brutal, physical perseverance on the hungry rocks.
 
 The house, a mouthful of bad teeth, seemed to smile in the gathering dark. I was inside it now. The question was, would it digest me, or would I learn to bite back?
+
+# Chapter 2
 
 ## **CHAPTER TWO**
 
@@ -220,6 +224,8 @@ I walked to the window. The strand women were tiny now, specks against the white
 My enemy was a clause. A sentence in a will. The echo of my grandmother’s voice, shouting into the cave of this house, had just bounced back and boxed me in.
 
 I had come to see the house. Now, I had to live it. For ninety days. The reckoning, it seemed, was just beginning—and I was to be its subject, not its author.
+
+# Chapter 3
 
 ## **CHAPTER THREE**
 
