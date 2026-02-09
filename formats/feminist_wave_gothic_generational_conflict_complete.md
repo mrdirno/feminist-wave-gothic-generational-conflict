@@ -2,7 +2,8 @@
 
 ## **CHAPTER ONE**
 
-The house was a mouthful of bad teeth. That was my first thought, standing on the wet gravel of the drive, the North Atlantic wind trying to fillet my coat. Black Rock House. A misnomer. It was grey, the grey of a week-old bruise, a hulking Victorian pile with too many gables and not enough windows. The ones it did have were narrow, suspicious, their glass warped by time and salt into a permanent, watery squint. The whole structure seemed to lean back from the cliff edge, as if bracing itself against the next gale, or perhaps resisting the pull of the sea below. It wasn’t picturesque. It was a warning.
+Mother’s ashes arrived on Tuesday. They came in a plain cardboard box that smelled of distant rain and, faintly, of her last perfume. I set the urn on the mantel between her wedding portrait and my degree—a neat, silent line of inheritance I was now expected to continue.
+
 
 My grandmother, Evangeline Black, was dead. The telegram had been a masterpiece of telegraphic brevity: *Eva deceased. Stop. House yours. Stop. Come. Stop.* It was signed by a solicitor, one Alistair Gough. No “sorry for your loss.” No “fond regards.” Just the facts, ma’am. My mother, reading it over my shoulder in our sun-bleached California kitchen, had made a sound like steam escaping a kettle.
 
